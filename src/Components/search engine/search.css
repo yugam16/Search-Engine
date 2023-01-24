@@ -1,0 +1,19 @@
+html
+{
+    background-color: #ffc107;
+}
+input
+{
+    height: 40px !important;
+    outline: none !important;
+    border: 0;
+}
+li
+{
+    list-style-type: none;
+}
+.show
+{
+    display: flex;
+    flex-wrap: wrap;
+}

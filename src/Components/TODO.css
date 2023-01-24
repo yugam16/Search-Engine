@@ -1,0 +1,48 @@
+html
+{
+    background-color: #0dcaf0!important;
+}
+.btn:focus
+{
+    box-shadow: 0 0 0 0 !important;
+}
+ul
+{
+    padding: 0 !important;
+}
+input
+{
+    outline: none;
+    border: 0;
+}
+ul li
+{
+    list-style-type: none;
+    border: 2px solid black;
+    padding: 10px 0 10px 10px;
+    margin: 20px 0 0 0;
+    text-align: left;
+    user-select: none;
+}
+i
+{
+    cursor: pointer;
+}
+div.div-1
+{
+    height: 500px;
+    border-radius: 20px;
+    overflow: scroll;
+}
+::-webkit-scrollbar {
+    width: 10%;
+}
+::placeholder
+{
+    color: white;
+    font-weight: lighter;
+}
+.row
+{
+    padding: 0 0 100px 0;
+}
